@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Follows advise from: https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSOnLinuxTrimNotes
+
 import subprocess
 import argparse
 import re
